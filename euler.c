@@ -17,7 +17,7 @@ void problem1 () {
   printf("Sum of all the multiples of 3 or 5 under 1000: %d\n",sum);
 }
 
-void p2() {
+void problem2() {
   int sum,prev,tmp;
     int i = 1;
     prev = 0; 
